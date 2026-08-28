@@ -10,5 +10,6 @@ You will:
 4. Complete `student_introduction.ipynb`.
 5. Commit and push your changes.
 6. Open a pull request back to this repository.
+7. Your pull request does not need to be merged. Creating the pull request successfully completes the GitHub collaboration portion of the lab.
 
 Do not include sensitive or private personal information.
